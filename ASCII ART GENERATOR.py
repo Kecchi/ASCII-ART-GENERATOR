@@ -139,7 +139,7 @@ cat = """
 
 
 sass = ["EXCUSE ME??", "Thank god ur not a moron...oh wait.", "This shit can't be serious", "Bro...not cool.", "DUDE COME ON!", "If this was real I would be so mad"]
-question = ("Would you like to try 'map', 'smile' or 'peace' ?")
+question = ("Would you like to try 'map', 'smile', 'peace', 'bomb' or 'cat?")
 choices = ["map", "smile", "peace", "bomb", "cat"]
 
 
